@@ -29,9 +29,9 @@ The dashboard answers essential HR questions such as:
 
 ## Employee List
 
-![CustomerDetails](Screenshots/3.CustomerDetails.PNG)
+![EmployeeList](Screenshots/3.EmployeeList.PNG)
 
-![CustomerDetails](Screenshots/4.CustomerDetails.PNG)
+![EmployeeList](Screenshots/4.EmployeeList.PNG)
 
 
 ## 🌐 View Live Dashboard
