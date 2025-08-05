@@ -27,7 +27,7 @@ The dashboard answers essential HR questions such as:
 
 ![Tooltip](Screenshots/2.Tooltip.jpg)
 
-## Customer Details
+## Employee List
 
 ![CustomerDetails](Screenshots/3.CustomerDetails.PNG)
 
